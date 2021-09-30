@@ -1,0 +1,131 @@
+{
+  "main": {
+    "id": "1adda216314435ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "607f09c01de456ae",
+        "type": "split",
+        "children": [
+          {
+            "id": "375ad08342c2dacc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Předměty/Matika/LAG/Lineární Prostory.md",
+                "mode": "source"
+              }
+            },
+            "group": "ae5bd318f88e87f9"
+          },
+          {
+            "id": "9802f9298458592f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Předměty/Matika/LAG/Lineární Prostory.md",
+                "mode": "preview"
+              }
+            },
+            "group": "ae5bd318f88e87f9"
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bd00468395368d91",
+    "type": "split",
+    "children": [
+      {
+        "id": "31d4dec3c73601a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "198e7279e4b113ce",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c3a3d36f5eced716",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "81cb5c632e7d8551",
+    "type": "split",
+    "children": [
+      {
+        "id": "123307b858fa1af4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28886d1ee78d1667",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Předměty/Matika/LAG/Lineární Prostory.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "42b7db7e4b1a5a35",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "375ad08342c2dacc",
+  "lastOpenFiles": [
+    "Předměty/Matika/LAG/Lineární Prostory.md",
+    "My Work.md",
+    "Předměty/Matika/LAG/Lineární Obal.md",
+    "Předměty/Matika/LAG/Lineární Prostory nad R.md",
+    "Předměty/Matika/LAG/Untitled.md",
+    "Předměty/Matika/MA1/Limity.md",
+    "Předměty/Matika/MA1/Limita.md",
+    "Předměty/Matika/MA1/Untitled.md",
+    "Předměty/Matika/Untitled.md",
+    "ALP/02.md"
+  ]
+}
